@@ -16,7 +16,7 @@
         <div id="home_map" class="border border-primary w-100 h-100 position-fixed" style=" z-index:-1;"></div>
 
         <div class=" w-25 h-100 top left mr-1" style="z-index:2; padding:5px;">
-            <div style="width:100%; height:100%;  background:rgba(218,231,255,0.9); border-radius:10px; border:solid 1px white;">
+            <div style="width:100%; height:100%;  background:rgba(50,83,127,0.95); border-radius:10px; border:solid 1px white;">
             </div>
         </div>
         <div class="flex-grow-1 d-flex align-items-center justify-content-center" style="color:#00F3FF; background:rgba(21,34,56,0.9); height:100px; border-radius:10px; margin-top:5px;">
@@ -24,9 +24,10 @@
             <div style="padding:3px; margin:5px;">Option 2</div>
             <div style="padding:3px; margin:5px;">Option 3</div>
             <div style="padding:3px; margin:5px;">Option 4</div>
+            <div style="padding:3px; margin:5px;">Option 4</div>
         </div>
         <div class=" w-25 h-100 top-0 right-0 " style=" padding:5px; box-sizing:border-box; z-index:2; right:0px; ">
-            <div style="width:100%; height:100%;  background:rgba(218,231,255,0.9); border-radius:10px; border:solid 1px white;">
+            <div style="width:100%; height:100%;  background:rgba(50,83,127,0.95); border-radius:10px; border:solid 1px white;">
             </div>
         </div>
  
